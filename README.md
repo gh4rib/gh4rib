@@ -18,11 +18,9 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
-- 🔭 I’m currently working on **Cybersecurity and DevOps**
-
 - 🌱 I’m currently learning **Rust and Cybersecurity**
 
-- 👯 I’m looking to collaborate on **any type of Golang Projects**
+- 👯 I’m looking to collaborate on **any type of Golang or Rust Projects**
 
 - 🐳 My Docker Hub Page [AlirezaGharib](https://hub.docker.com/u/dapperblondie)
 
