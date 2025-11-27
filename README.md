@@ -55,4 +55,4 @@ technologies and trying to be up to date 🙂❤️<br/>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![Gharib's GitHub stats](https://github-readme-stats.vercel.app/api?username=gharib-uk)](https://github.com/gharib-uk)
+[![Gharib's GitHub stats](https://github-readme-stats.vercel.app/api?username=gharib-uk)](https://github.com/gh4rib)
