@@ -56,4 +56,4 @@ technologies and trying to be up to date 🙂❤️<br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![Gharib's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh4rib&theme=2077)](https://github.com/gh4rib)
-[![Gharib's Github Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh4rib&theme=2077&exclude=jupyter%20Notebook,html,css)]()
+[![Gharib's Github Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh4rib&theme=2077&exclude=css,jupyter%20Notebook,html)]()
