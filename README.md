@@ -55,4 +55,5 @@ technologies and trying to be up to date 🙂❤️<br/>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-[![Gharib's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh4rib)](https://github.com/gh4rib)
+[![Gharib's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh4rib&theme=2077)](https://github.com/gh4rib)
+[![Gharib's Github Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh4rib&theme=2077&exclude=jupyter%20Notebook,html)]()
