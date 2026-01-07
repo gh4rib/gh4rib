@@ -1,8 +1,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
-<h3 align="center">Software Developer</h3>
-<h4 align="Justify"> Passionate, Motivated
-and spontaneous developer, active and disciplined in learning new
+<h3 align="center">Cybersecurity Analyst</h3>
+<h4 align="Justify"> Passionate, Motivated, and disciplined in learning new
 technologies and trying to be up to date 🙂❤️<br/>
 <br/>
 
@@ -21,7 +20,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 🌱 I’m currently learning **Rust and Cybersecurity**
 
-- 👯 I’m looking to collaborate on **any type of Golang or Rust Projects**
+- 👯 I’m looking to collaborate on **any type of Golang, Rust Projects and Cybersecurity Related Projects**
 
 - 🐳 My Docker Hub Page [AlirezaGharib](https://hub.docker.com/u/dapperblondie)
 
