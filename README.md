@@ -43,7 +43,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 🐳 My Docker Hub Page [AlirezaGharib](https://hub.docker.com/u/dapperblondie)
 
-- 👨‍💻 My Personal Website [AlirezaGharib](https://alirezagharib.net)
+- 👨‍💻 My Personal Website [AlirezaGharib](https://gharib.us)
 
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
