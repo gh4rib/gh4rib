@@ -61,17 +61,13 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 ![GoLand](https://img.shields.io/badge/GoLand-black?style=for-the-badge&logo=goland&logoColor=white)
 ![RustRover](https://img.shields.io/badge/RustRover-black?style=for-the-badge&logo=rubymine&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 <h3 align="left">Languages and Frameworks :</h3>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![Gharib's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gh4rib&theme=2077)](https://github.com/gh4rib)
 [![Gharib's Github Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gh4rib&theme=2077&exclude=css,jupyter%20Notebook,html)]()
